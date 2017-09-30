@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">digitalEditTextDemo</string>
+    <string name="save_ip">保存</string>
+    <string name="input_valid_ip_value">请输入正确的IP地址</string>
+    <string name="cancel_ip_saving">取消</string>
+    <string name="btn_description">点我，配置IP地址</string>
+</resources>
