@@ -6,7 +6,7 @@ IDE推荐使用Android Studio
 
 如下图：
 
-![](https://github.com/rubinliudongpo/DigitalEditTextDemo/master/images/ip_dialog.png)  
+![](https://github.com/rubinliudongpo/DigitalEditTextDemo/blob/master/images/ip_dialog.png)
 
 ## 最后  
 目前主要用于IP输入的校验。
