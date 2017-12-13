@@ -1,12 +1,12 @@
 # 如何使用 
 
-IDE推荐使用Android Studio
+IDE推荐使用Android Studio 3.0.1
 
 ## 使用界面
 
 如下图：
 
-![](https://github.com/rubinliudongpo/DigitalEditTextDemo/master/images/ip_dialog.png)  
+![](https://github.com/rubinliudongpo/DigitalEditTextDemo/blob/master/images/ip_dialog.png)
 
 ![](https://github.com/rubinliudongpo/DigitalEditTextDemo/master/images/device_id.png)  
 
