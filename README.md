@@ -8,7 +8,7 @@ IDE推荐使用Android Studio 3.0.1
 
 ![](https://github.com/rubinliudongpo/DigitalEditTextDemo/blob/master/images/ip_dialog.png)
 
-![](https://github.com/rubinliudongpo/DigitalEditTextDemo/master/images/device_id.png)  
+![](https://github.com/rubinliudongpo/DigitalEditTextDemo/blob/master/images/device_id.png)  
 
 
 ## 最后  
