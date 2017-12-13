@@ -8,7 +8,10 @@ IDE推荐使用Android Studio
 
 ![](https://github.com/rubinliudongpo/DigitalEditTextDemo/master/images/ip_dialog.png)  
 
+![](https://github.com/rubinliudongpo/DigitalEditTextDemo/master/images/device_id.png)  
+
+
 ## 最后  
-目前主要用于IP输入的校验。
+目前主要用于IP和数字输入及校验。
 
 #### 欢迎 Fork 和 Star

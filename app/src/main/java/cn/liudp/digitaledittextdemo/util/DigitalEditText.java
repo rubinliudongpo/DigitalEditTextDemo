@@ -22,10 +22,6 @@ import cn.liudp.digitaledittextdemo.R;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 自定义控件实现ip地址特殊输入
- * @author HawkBing Created on May 06!
- */
 public class DigitalEditText extends LinearLayout implements TextWatcher {
     private static final String TAG = "DigitalEditText";
     private int width;
